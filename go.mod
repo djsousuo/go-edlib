@@ -1,3 +1,3 @@
-module github.com/hbollon/go-edlib
+module github.com/djsousuo/go-edlib
 
 go 1.13
